@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project1</title>
+        <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <style>
+            .a{
+                height:25px; 
+                font-size: 25px; 
+                position: absolute;
+                color: orange;
+                padding-top: 0.5%;
+                padding-left: 30%;
+            }
+            #btn{
+                opacity: 0.5;
+            }
+        </style>
+    </head>
+    <body> 
+<div style="height: 40px; width: 100%; background-color: black">
+    <div class="a" style="display: flex">
+  <i class="fab fa-imdb"></i>
+        &nbsp;
+        <a href="movies.html" style="color:white;font-size: 15px; text-align: center; padding-right: 10px; padding-top: 10px: padding-left: 10px">Movies</a>
+        <a href="shows.html" style="color:white;font-size: 15px; text-align: center">TV Shows</a>
+        &nbsp;
+         <input type="text" placeholder="Search IMDB" style="background-color: gainsboro;padding-left: 5%;">
+        <a href="login.html" style="color: white;font-size: 15px">Sign In</a>
+         &nbsp; &nbsp; &nbsp;
+        <div style="color:white; font-size: 15px; font-display: block">
+        <script>
+document.write(Date());
+</script>
+        </div>
+        </div>
+        </div>
+        <div style="background-color: black; width: 100; height=80">
+            &nbsp;  &nbsp;
+         <img src="photo1.JPG" type="image/JPG" hight="280" width="220"></img>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+        <video controls poster="is.jpg" width="900" height="330" style="border: 1%"controls>
+  <source src="c&k.mp4" type="video/mp4">
+        </video>
+        <div style="background-color: black; padding: inherit">
+            <p style="color: orange"><b>&nbsp;&nbsp;&nbsp; | What to watch</b></p>
+        </div>
+        <div style="background-color: black">
+            <p class="b" style="color: white">&nbsp;&nbsp;&nbsp;Fan favorites<br>&nbsp;&nbsp;&nbsp;This Week's Top TV and Movies</p>
+        </div>
+        &nbsp;
+        <div style="background-color: black">
+            &nbsp;&nbsp;&nbsp;
+        <video poster="parasite_wp.jpg" width="230" height="150" controls style="width: 240">
+            <source src="Parasite%20-%20Official%20Trailer%20(2019)%20Bong%20Joon%20Ho%20Fi(720P_HD).mp4" type="video/mp4">
+            </video>
+        &nbsp;
+        <video poster="contagion_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="Contagion%20(2011)%20Official%20Exclusive%201080p%20HD%20Trail(720P_HD).mp4" type="video/mp4">
+            </video>
+            &nbsp;
+            <video poster="gullyboys_wp1.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="Gully%20Boy%20_%20Official%20Trailer%20_%20Ranveer%20Singh%20_%20Ali(720P_HD).mp4" type="video/mp4">
+            </video>
+            &nbsp;
+            <video poster="mib_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="MEN%20IN%20BLACK_%20INTERNATIONAL%20-%20Official%20Trailer(720P_HD).mp4" type="video/mp4">
+            </video>
+            &nbsp;
+            <video poster="upatih_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="ONCE%20UPON%20A%20TIME%20IN%20HOLLYWOOD%20-%20Official%20Trailer%20((720P_HD).mp4" type="video/mp4">
+            </video>
+        </div>
+        <div style="background-color: black;height: 13px">
+        <p style="color: orange;font-size: 17px"> &nbsp; &nbsp;<b>Explore What's streaming</b></p>
+              </div>
+            <div style="background-color: black; height: 13px">
+                <p style="color:orange; font-style: normal;font-size:13px"> &nbsp; &nbsp;PRIME VIDEO | HOTSTAR | NETFLIX</p>
+                </div>
+         <div style="background-color: black;height: 8px">
+                <p style="color: white;font-size: 12px;background-color: black">&nbsp;&nbsp;&nbsp;Watch On Amazon Prime Videos</p>
+                </div>
+        <div style="background-color: black">
+            &nbsp;&nbsp;&nbsp;
+            <video poster="tfm_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="The%20Family%20Man%20%E2%80%93%20Official%20Trailer%20_%20Raj%20_%20DK%20_%20Man(720P_HD).mp4" type="video/mp4">
+            </video>
+              &nbsp;
+             <video poster="army_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="The%20Forgotten%20Army%20Azaadi%20Ke%20Liye%20-%20Official%20Trail(720P_HD).mp4" type="video/mp4">
+            </video>
+              &nbsp;
+                <video poster="jackryan_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="Tom%20Clancy_s%20Jack%20Ryan%20Season%201%20-%20Official%20Trailer(720P_HD).mp4" type="video/mp4">
+            </video>
+              &nbsp;
+              <video poster="hanna_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="Hanna%20(2011)%20Movie%20Trailer%20HD(480P).mp4" type="video/mp4">
+            </video>
+              &nbsp;
+              <video poster="test_wp.jpg" width="230" height="150" style="padding-top: 0%" controls>
+            <source src="The%20Test_%20A%20New%20Era%20for%20Australia_s%20Team%20_%20Officia(1080P_HD).mp4" type="video/mp4">
+            </video>
+            </div>
+        <div style="background-color: black;height: 12px">
+        <p style="color: orange;font-size: 17px"> &nbsp; &nbsp;<b>Today's Exclusive</b></p>
+              </div>
+        <div style="background-color: black; height: 13px">
+            <p style="color: white;font-style: normal;font-size: 13px"> &nbsp; &nbsp; &nbsp;<b>| Top Coverages></b></p>
+        </div>
+         <div style="background-color: black;height: 8px;display: flex">
+                <p style="color: white;font-size: 12px;background-color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peoples born on march 29  </p>
+             <div style="padding-left: 40%">
+                 <p style="color:white;font-size: 12px;">New from the ceter</p>
+             </div>
+                </div>
+        &nbsp;&nbsp;
+        <div style="background-color: black; height: 80px;display: flex;padding-top: 1%">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="sh.jpg" alt="Avatar" style="width:60px; height: 50px; border-radius: 50%">
+            <div style="padding-left: 10px">
+                <p style="color: white;font-size: 9px"><b>Sam Hazeldine</b></p>
+                <p style="color: white;font-size: 9px"><b>48 </b>| 1972</p>
+                <p style="color:white;font-size: 5px">Sam Hazeldine was born on march 29,1972 in<br>Hammersmith, London, England. He is an actor, known for<br> The Innocents (2018), The Huntsman: Winter's War (2016)<br> and Peaky Blinders (2013).</p>
+            </div>
+            <div>
+                 &nbsp; &nbsp;
+            <img src="mh.jpg" alt="Avatar" style="width:60px; height: 50px; border-radius: 50%">
+            </div>
+                <div style="padding-left: 10px">
+                <p style="color: white;font-size: 9px"><b>Megan Hilty</b></p>
+                <p style="color: white;font-size: 9px"><b>39 </b>| 1981</p>
+                <p style="color:white;font-size: 5px">Megan Hilty was born on March 29, 1981 in Bellevue,<br> Washington, USA as Megan Kathleen Hilty. She is an<br> actress, known for Smash (2012), Secret of the Wings (2012)<br> and BrainDead (2016).</p>
+            </div>
+                <div style="padding-left:17%;padding-top: 1% ">
+                 &nbsp; &nbsp;
+            <img src="rr.jpg" alt="Avatar" style="width:60px; height: 50px">
+                     <p style="color: orange;font-size: 7px;padding-left: 3px">Explore More</p>
+            </div>
+                <div style="padding-left: 10px">
+                    <p style="color: white;font-size: 9px"><b>Ryan Reynolds in talks to star in 'Dragon's<br>Lair' Film Adaptation for Netflix<br></b></p>
+                     <p style="color: white;font-size: 9px">Mar 27 | Variety</p>
+            </div>
+                 <div style="padding-left:1%;padding-top: 1% ">
+                 &nbsp; &nbsp;
+            <img src="rg.jpg" alt="Avatar" style="width:60px; height: 50px">
+            </div>
+                <div style="padding-left: 10px">
+                    <p style="color: white;font-size: 9px"><b>MGM In Exclusive Talks for Hot Andy Weir<br>Sci-Fi Novel'The Hail Mary',Ryan Gosling<br>Attached To Star & Produce</b></p>
+                     <p style="color: white;font-size: 9px">Mar 27 | Deadline</p>
+            </div>
+        </div>
+        <div style="background-color: black; height:40px;padding-bottom: 50px ">
+            <i class="fa fa-facebook-official" style="font-size:25px;padding-top: 34px;padding-left: 40%; color: aliceblue"></i>
+             <i class="fa fa-instagram" style="font-size:25px;padding-top: 34px;padding-left: 2%; color: aliceblue"></i>
+             <i class="fa fa-twitch" style="font-size:25px;padding-top: 34px;padding-left: 2%; color: aliceblue"></i>
+             <i class="fa fa-twitter" style="font-size:25px;padding-top: 34px;padding-left: 2%; color: aliceblue"></i>
+             <i class="fa fa-youtube-play" style="font-size:25px;padding-top: 34px;padding-left: 2%; color: aliceblue"></i>
+        </div>
+        <div style="background-color: black; height: 26px;display: flex">
+            <p style="color:ghostwhite; font-size:10px;padding-left: 21%"><b>Get the IMDb app</b></p>
+            <p style="color:ghostwhite; font-size:10px;padding-left: 5%"><b>Help</b></p>
+            <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>Site Index</b></p>
+            <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>IMDb Pro</b></p>
+            <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>Box Office Mojo</b></p>
+            <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>Press Room</b></p>
+            <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>Advertising</b></p>
+            <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>Jobs</b></p>
+        </div>
+        <div style="background-color: black; height: 40px;display: flex">
+           <p style="color:ghostwhite; font-size:10px;padding-left: 35%"><b>Jobs</b></p>
+           <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>Condition Of Use</b></p>
+           <p style="color:ghostwhite; font-size:10px;padding-left: 3%"><b>Privacy Policy</b></p>
+           <p style="color:ghostwhite; font-size:10px;padding-left: 4%"><b>Interest Based Ads</b></p>
+        </div>
+        
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
